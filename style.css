@@ -1,0 +1,205 @@
+
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}*
+
+
+.hero{
+   background-color: black;
+   height: 860.25px;
+}
+.poor{
+   display: flex;
+}
+
+.group{
+   float: left;
+   display: flex;
+   list-style: none;
+   margin-left: 750px;
+   font-family: sans-serif;
+   font-weight: bold;
+   gap: 30px;
+
+
+}
+.group li a{
+   color: aliceblue;
+   cursor: pointer;
+
+
+}
+.group a :hover{
+   color: blueviolet;
+}
+.hassu{
+   position: relative;
+   left: 700px;
+   cursor: pointer;
+   bottom: 25px;
+   
+}
+.pilay li a{
+   color: blueviolet;
+
+}
+.prog{
+   margin-top: 100px;
+}
+.peace{
+
+   position: relative;
+   top: 40px;
+   left: 30px;
+}
+.life{
+   margin-left: 400px;
+   
+   width: 1118px;
+   height: 630px;
+   margin-top: 20px;
+}
+
+.army{
+   width: 167px;
+   height: 45px;
+   border-radius: 25px;
+   margin-left: 580px;
+   position: relative;
+bottom: 300px;
+border: solid;
+font-size: 20px;
+}
+.scrol{
+   overflow: hidden;
+   width: 100%;
+}
+.okkar{
+   font-size: 52px;
+   font-family: poppins,sans-serif!important;
+   font-weight: bold;
+   color: #eee;
+   position: relative;
+   top: 0px;
+
+}
+.pogo{
+   
+   font-size: 52px;
+   font-family: poppins,sans-serif!important;
+   margin-left: 170px;
+   color: #eee;
+   position: relative;
+   top: 200px;
+}
+.late{
+font-size: 52px;
+font-family: poppins,sans-serif!important;
+color: #ff47ff;
+position: relative;
+top: 200px;
+
+}
+.poly{
+   font-size: 35px;
+   color: #eee;
+   font-weight: bold;
+   font-family: sans-serif;
+   position: relative;
+   right: 100px;
+}
+.freind{
+
+   font-size: 24px;
+   font-family: poppins,sans-serif!important;
+   color: #eee;
+   position: relative;
+   top: 250px;
+
+}
+.hasnain{
+   background-color: black;
+   width: 1000px;
+   position: relative;
+   text-align: center;
+   height: 1000px;
+   
+
+}
+.guru{
+   display: flex;
+}
+.lolly{
+   position: relative;
+   top: 220px;
+}
+.phd{
+   position: relative;
+
+   font-size: 52px;
+   font-family: poppins,sans-serif!important;
+   font-weight: bold;
+   color: #eee;
+   position: relative;
+top: 200px;
+
+}
+.padd{
+   font-size: 52px;
+   font-family: Arial, Helvetica, sans-serif;
+   /* color: #ffffff; */
+   color: black;
+   font-weight: 700;
+    width: 50%;
+    background-color: black;
+    color: #eee;
+    height: 1000px;
+   width: 1000px;
+
+}
+.owais{
+   
+   font-size: 52px;
+   font-family:  sans-serif;
+   color: #ff47ff;
+   position: relative;
+   top: 230px;
+   left: 180px;
+ 
+   
+   
+
+}
+.olji{
+   font-family:  Sans-serif;
+   font-size: 14px;
+   position: relative;
+   top: 290px;
+   left: 180px;
+
+   
+}
+.abid{
+   position: relative;
+   top: 200px;
+   left: 180px;
+}
+.toooo{
+   width: 50%;
+   background-color: black;
+   width: 1000px;
+   height: 1000px;
+}
+.program{
+display: flex;
+}
+.phd{
+   overflow: hidden;
+   width: 100%;
+}
+.admin{
+   position: relative;
+   bottom: 200px;
+}
